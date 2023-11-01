@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="813299c6-78b4-4d58-8bb6-f99e06ce95f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HighestAndLowest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchNumber.java" afterDir="false" />
+    <list default="true" id="813299c6-78b4-4d58-8bb6-f99e06ce95f8" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/AverageOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivisibleBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenPositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorsOfAGivenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,30 +46,37 @@
     "onboarding.tips.debug.path": "D:/Learn/Java/LearnJava/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseOrder">
-    <configuration name="HighestAndLowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HighestAndLowest" />
+  <component name="RunManager" selected="Application.FactorsOfAGivenNumber">
+    <configuration name="AverageOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AverageOf" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="DivisibleBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivisibleBy" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseOrder" />
+    <configuration name="EvenPositions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenPositions" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchNumber" />
+    <configuration name="FactorsOfAGivenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorsOfAGivenNumber" />
+      <module name="LearnJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NoOfDigits" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,10 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseOrder" />
-        <item itemvalue="Application.SearchNumber" />
-        <item itemvalue="Application.HighestAndLowest" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FactorsOfAGivenNumber" />
+        <item itemvalue="Application.EvenPositions" />
+        <item itemvalue="Application.NoOfDigits" />
+        <item itemvalue="Application.AverageOf" />
+        <item itemvalue="Application.DivisibleBy" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +101,19 @@
       <option name="presentableId" value="Default" />
       <updated>1698862857518</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1698870687393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698870687393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
