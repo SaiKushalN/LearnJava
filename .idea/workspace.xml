@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="813299c6-78b4-4d58-8bb6-f99e06ce95f8" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/AverageOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivisibleBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenPositions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactorsOfAGivenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoOfDigits.java" afterDir="false" />
+    <list default="true" id="813299c6-78b4-4d58-8bb6-f99e06ce95f8" name="Changes" comment="Second commit till 12 questions">
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCompound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2XaMhVby1ibgYxNNeq5MMslZucg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,45 +42,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "D:/Learn/Java/LearnJava/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Learn/Java/LearnJava/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FactorsOfAGivenNumber">
-    <configuration name="AverageOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AverageOf" />
+}</component>
+  <component name="RunManager" selected="Application.SimpleCompound">
+    <configuration name="ArrayConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayConcat" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisibleBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivisibleBy" />
+    <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterCount" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenPositions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenPositions" />
+    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonElements" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorsOfAGivenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorsOfAGivenNumber" />
+    <configuration name="SimpleCompound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleCompound" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoOfDigits" />
+    <configuration name="SingleDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleDigit" />
       <module name="LearnJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FactorsOfAGivenNumber" />
-        <item itemvalue="Application.EvenPositions" />
-        <item itemvalue="Application.NoOfDigits" />
-        <item itemvalue="Application.AverageOf" />
-        <item itemvalue="Application.DivisibleBy" />
+        <item itemvalue="Application.SimpleCompound" />
+        <item itemvalue="Application.CharacterCount" />
+        <item itemvalue="Application.SingleDigit" />
+        <item itemvalue="Application.CommonElements" />
+        <item itemvalue="Application.ArrayConcat" />
       </list>
     </recent_temporary>
   </component>
@@ -109,11 +113,20 @@
       <option name="project" value="LOCAL" />
       <updated>1698870687393</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit till 12 questions">
+      <option name="closed" value="true" />
+      <created>1698873201621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698873201621</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Second commit till 12 questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit till 12 questions" />
   </component>
 </project>
